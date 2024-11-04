@@ -1,0 +1,18 @@
+{
+    "name": "agbe/public_html",
+    "autoload": {
+        "psr-4": {
+            "Agbe\\PublicHtml\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikhil321singh",
+            "email": "your_email@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {"phpmailer/phpmailer": "^6.9"}
+
+}
